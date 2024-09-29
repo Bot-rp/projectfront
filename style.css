@@ -42,7 +42,7 @@ body {
 }
 
 .card__image {
-    background-image: url(/images/image-desktop.jpg);
+    background-image: url(images/image-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -120,7 +120,7 @@ body {
         padding: 20px;
     }
     .card__image {
-        background-image: url(/images/image-mobile.jpg);
+        background-image: url(images/image-mobile.jpg);
     }
 }
 
